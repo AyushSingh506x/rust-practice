@@ -3,5 +3,17 @@
 version = 3
 
 [[package]]
+name = "control_flow"
+version = "0.1.0"
+
+[[package]]
+name = "ownership"
+version = "0.1.0"
+
+[[package]]
 name = "rust-practice"
+version = "0.1.0"
+
+[[package]]
+name = "the_twelve_days_of_christmas"
 version = "0.1.0"
